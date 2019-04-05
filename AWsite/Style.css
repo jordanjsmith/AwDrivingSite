@@ -1,0 +1,76 @@
+body {
+  margin-bottom: 60px; 
+  background-color: burlywood;
+}
+
+/*
+
+                                     Footer
+*/
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    text-align: center;    
+    background-color: #222222;
+    border-color: #121212;
+    color: rgb(255,255,255);
+}
+/*
+                                
+                                     LessonBanner
+*/
+
+.lessonCost{
+    text-align: center;
+    margin-top: 10px;
+    border: 2px solid;
+    background-color: orangered;
+    padding: 2rem;
+    color: yellow
+}
+
+/*
+
+                                     Carousel
+*/
+
+#myCarousel{
+    padding: 0px;
+    border: solid black;    
+}
+
+/*
+
+                                     Headings
+*/
+
+h1{
+    font-weight: 500;
+    padding-bottom: 15px;
+}
+
+/*
+
+                                    Home Page Styling
+*/
+
+
+.homeList li{
+    font-size: 26px;
+    margin-top: 30px;
+
+}
+
+.homeTerms{
+    margin-top: 15px;
+    font-size: 16px;
+}
